@@ -94,7 +94,7 @@ en: &DEFAULT_EN
   team:
     title: "OUR AMAZING TEAM"
     text: "This is our team"
-    subtext:  **TeamYoga**.
+    subtext:  "**TeamYoga**."
     section: team
     people:
       - name: "Swathi"
