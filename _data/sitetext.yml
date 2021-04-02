@@ -99,7 +99,7 @@ en: &DEFAULT_EN
     people:
       - name: "Swathi"
         role: "Yoga Teacher"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/balanceYoga.JPG
         social:
           - url: https://facebook.com
             icon: fab fa-facebook-f
